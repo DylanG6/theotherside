@@ -1,37 +1,32 @@
 ## Welcome to The Other Side
 
-You can use the [editor on GitHub](https://github.com/DylanG6/theotherside/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My friend Ben and I started this business in order to save money for college.  We love to work outside and help others.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will provide lawn mowers and gas for a higher price if you wish.
 
-### Markdown
+### Pricing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have very flexible pricing that averages around $8 per 1,000 square feet
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Here are more close to normal quotes
 
-- Bulleted
-- List
+**Flat lawn with normal height grass: $5 : 1,000
+Flat odd shaped lawn with normal height grass: $7 : 1,000
+Steep lawn with normal height grass: $9 : 1,000
+Steep lawn with tall grass: $11 : 1,000
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details, call us at (360) 541-0914 or our alternate phone (360) 710-4499
 
-### Jekyll Themes
+### We Hope To See You
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DylanG6/theotherside/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We hope to see you sometime soon.  Feel free to call or email at us anytime.  We will get back to you as soon as possible.  We then can set up an appointment for the day that works best for **you**.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Phone: (360) 541-0914
+       (360) 710-4499
+Email: theothersidebainbridge@gmail.com
