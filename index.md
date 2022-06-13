@@ -12,10 +12,10 @@ We have very flexible pricing that averages around $8 per 1,000 square feet
 
 Here are more close to normal quotes
 
-**Flat lawn with normal height grass: $5 : 1,000
+Flat lawn with normal height grass: $5 : 1,000
 Flat odd shaped lawn with normal height grass: $7 : 1,000
 Steep lawn with normal height grass: $9 : 1,000
-Steep lawn with tall grass: $11 : 1,000**
+Steep lawn with tall grass: $11 : 1,000
 
 ```
 
