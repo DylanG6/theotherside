@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Other Side
 
 You can use the [editor on GitHub](https://github.com/DylanG6/theotherside/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
