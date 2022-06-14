@@ -1,13 +1,17 @@
 ## Contact Us
 
 <form>
-    <input type="text" name="Your Email"/>
+    <p> Your Email </p>
+    <input type="text" name="Email Address"/>
   <BR>
-    <input type="text" name="Your Phone Number"/>
+    <p>Your Phone Number</p>
+    <input type="text" name="Phone Number"/>
   <BR>
-    <input type="text" name="Your Address"/>
+    <p>Your House Adress</p>
+    <input type="text" name="Address"/>
   <BR>
-    <input type="text" name="Any Extra Notes"/>
+    <p>Any Extra Notes?</p>
+    <input type="text" name="Extra Notes"/>
   <BR>
     <input type="button" value="Submit" />
 </form>
