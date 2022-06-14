@@ -29,4 +29,4 @@ We hope to see you sometime soon.  Feel free to call or email at us anytime.  We
 
 #### Phone: (360) 541-0914
 ####        (360) 710-4499
-#### Email: theothersidebainbridge@gmail.com
+#### Email: tosbainbridge@gmail.com
