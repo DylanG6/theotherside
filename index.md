@@ -4,6 +4,8 @@ My friend Ben and I started this business in order to save money for college.  W
 
 We will provide lawn mowers and gas for a higher price if you wish.
 
+[stuff](www.amazon.com){:target="_blank"}
+
 ### Pricing
 
 We have very flexible pricing that averages around $8 per 1,000 square feet
