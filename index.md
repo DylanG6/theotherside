@@ -4,8 +4,6 @@ My friend Ben and I started this business in order to save money for college.  W
 
 We will provide lawn mowers and gas for a higher price if you wish.
 
-[stuff](hello-world.md)
-
 ### Pricing
 
 We have very flexible pricing that averages around $8 per 1,000 square feet
@@ -17,7 +15,7 @@ We have very flexible pricing that averages around $8 per 1,000 square feet
 |Level Lawn|$5 : 1k|$7 : 1k|$9 : 1k|
 |Oddly Shaped|$7 : 1k|$9 : 1k|$11 : 1k|
 
-For more details, call us at (360) 541-0914 or our alternate phone (360) 710-4499
+[Specific Quote](hello-world.md)
 
 ### We Hope To See You
 
