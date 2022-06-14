@@ -18,6 +18,13 @@ Flat lawn with normal height grass: $5 : 1,000
 Flat odd shaped lawn with normal height grass: $7 : 1,000
 Steep lawn with normal height grass: $9 : 1,000
 Steep lawn with tall grass: $11 : 1,000
+|                 | Short Grass  | Medium Grass    | Tall Grass     |
+|-----------------|:-------------|:---------------:|---------------:|
+| Steep Lawn      | Second cell  | Third cell      | fourth cell    |
+| Level Lawn      | foo          | **strong**      | baz            |
+| Slight Grade    | quux         | baz             | bar            |
+| Oddly Shaped    |              |                 |                |
+{: .custom-class #custom-id}
 
 ```
 
