@@ -6,7 +6,7 @@ We will provide lawn mowers and gas for a higher price if you wish.
 
 ### Pricing
 
-We have very flexible pricing that averages around $8 per 1,000 square feet
+We have very flexible pricing that averages around $9 per 1,000 square feet
 
 |Average Quotes|Short Grass|Medium Grass|Tall Grass|
 |-----------------|:-------------|:---------------:|---------------:|
