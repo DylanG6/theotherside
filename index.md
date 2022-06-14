@@ -1,10 +1,10 @@
 ## Welcome to The Other Side
 
-My friend Ben and I started this business in order to save money for college.  We love to work outside and help others.
+The Other Side is a yard work company founded by Ben Halko and Dylan Gray in order to save money for college.
 
 We will provide lawn mowers and gas for a higher price if you wish.
 
-[stuff](hello-world){:target="_blank"}
+[stuff](hello-world)}
 
 ### Pricing
 
