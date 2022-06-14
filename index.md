@@ -4,7 +4,7 @@ The Other Side is a yard work company founded by Ben Halko and Dylan Gray in ord
 
 We will provide lawn mowers and gas for a higher price if you wish.
 
-[stuff](hello-world)}
+[stuff](https://dylang6.github.io/guccidndadventure)}
 
 ### Pricing
 
