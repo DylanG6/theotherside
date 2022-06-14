@@ -10,24 +10,12 @@ We will provide lawn mowers and gas for a higher price if you wish.
 
 We have very flexible pricing that averages around $8 per 1,000 square feet
 
-|                 | Short Grass  | Medium Grass    | Tall Grass     |
+|Average Quotes|Short Grass|Medium Grass|Tall Grass|
 |-----------------|:-------------|:---------------:|---------------:|
-| Steep Lawn      | Second cell  | Third cell      | fourth cell    |
-| Level Lawn      | foo          | **strong**      | baz            |
-| Slight Grade    | quux         | baz             | bar            |
-| Oddly Shaped    |              |                 |                |
-{: .custom-class #custom-id}
-
-```markdown
-
-Here are more close to normal quotes
-
-Flat lawn with normal height grass: $5 : 1,000
-Flat odd shaped lawn with normal height grass: $7 : 1,000
-Steep lawn with normal height grass: $9 : 1,000
-Steep lawn with tall grass: $11 : 1,000
-
-```
+|Steep Lawn|$9 : 1k|$11 : 1k|$13 : 1k|
+|Slight Grade|$7 : 1k|$9 : 1k|$11 : 1k|
+|Level Lawn|$5 : 1k|$7 : 1k|$9 : 1k|
+|Oddly Shaped|$7 : 1k|$9 : 1k|$11 : 1k|
 
 For more details, call us at (360) 541-0914 or our alternate phone (360) 710-4499
 
