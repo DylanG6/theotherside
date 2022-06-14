@@ -4,7 +4,7 @@ My friend Ben and I started this business in order to save money for college.  W
 
 We will provide lawn mowers and gas for a higher price if you wish.
 
-[stuff](hello-world.html){:target="_blank"}
+[stuff](hello-world.html)
 
 ### Pricing
 
