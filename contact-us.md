@@ -1,15 +1,15 @@
 ## Contact Us
 
 <form>
-  <input type="text" name="Choose an Email ?"/>
+    <input type="text" name="Your Email"/>
   <BR>
-  Choose a password
-  <input type="password" name="Choose a password"/>
+    <input type="text" name="Your Phone Number"/>
   <BR>
-  Describe why you want to register
-  <textarea name="Describe why you want to register"><textarea>   
+    <input type="text" name="Your Address"/>
   <BR>
-  <input type="button" value="ok" />
+    <input type="text" name="Any Extra Notes"/>
+  <BR>
+    <input type="button" value="Submit" />
 </form>
   
 [Back](index.md)
