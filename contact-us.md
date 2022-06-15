@@ -2,7 +2,7 @@
 
 <form>
     <p> Your Email </p>
-    <input type="text" name="Email Address"/>
+    <input type="email" name="email" id="name" required/>
   <BR>
     <p>Your Phone Number</p>
     <input type="text" name="Phone Number"/>
