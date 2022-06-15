@@ -30,13 +30,6 @@ name="EmailForm">
 	<BR>
 	
     <p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_half" data-id="name" data-type="input">
-				
-				
-				
-				
-				<label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
-				<input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
-			</p>
-    <label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
-    <input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
-		</p>
+	<label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
+	<input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
+</p>
