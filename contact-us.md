@@ -1,6 +1,6 @@
 ## Contact Us
 
-<form action="mailto:grayjd6@gmail.com"
+<form 
 method="POST"
 enctype="multipart/form-data"
 name="EmailForm">
@@ -19,8 +19,7 @@ name="EmailForm">
     <input type="text" name="Extra Notes"/>
   <BR>
   <BR>
-    <button type="submit">Submit</button>
-      <form action="mailto:tosbainbridge@gmail.com">
+    <button action="mailto:grayjd6@gmail.com" type="submit">Submit</button>
 </form>
       
 <BR>
