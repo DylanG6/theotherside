@@ -39,3 +39,4 @@ name="EmailForm">
 			</p>
     <label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
     <input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
+		</p>
