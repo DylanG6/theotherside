@@ -7,7 +7,7 @@
     <input type="email" name="email" id="name" required/>
   <BR>
     <p>Your Phone Number</p>
-    <input type="text" name="Phone Number" required/>
+    <input type="tel" name="phone" id="phone" required/>
   <BR>
     <p>Your House Adress</p>
     <input type="text" name="Address" required/>
