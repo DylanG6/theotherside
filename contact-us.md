@@ -20,7 +20,7 @@
       <form action="mailto:grayjd6@gmail.com">
 </form>
   
-<form method="post" action="https://forms.un-static.com/forms/YOUR_ENDPOINT_REFERENCE">
+<form method="post" action="grayjd6@gmail.com">
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label>
     <div class="col-8">
