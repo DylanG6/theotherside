@@ -14,8 +14,8 @@
     <input type="text" name="Extra Notes"/>
   <BR>
   <BR>
-    <input type="button" value="Submit" />
-      <form action="mailto:tosbainbridge@gmail.com">
+    <button type="submit">Submit</button>
+      <form action="mailto:grayjd6@gmail.com">
 </form>
   
 <form method="post" action="https://forms.un-static.com/forms/YOUR_ENDPOINT_REFERENCE">
