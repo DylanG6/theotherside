@@ -1,14 +1,16 @@
 ## Contact Us
 
 <form>
+    <p> Your Name </p>
+    <input type="text" name="name" id="name" required/>
     <p> Your Email </p>
     <input type="email" name="email" id="name" required/>
   <BR>
     <p>Your Phone Number</p>
-    <input type="text" name="Phone Number"/>
+    <input type="text" name="Phone Number" required/>
   <BR>
     <p>Your House Adress</p>
-    <input type="text" name="Address"/>
+    <input type="text" name="Address" required/>
   <BR>
     <p>Any Extra Notes?</p>
     <input type="text" name="Extra Notes"/>
