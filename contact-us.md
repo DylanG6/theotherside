@@ -63,7 +63,7 @@
     $content= "First Name: ".$_POST['firstname']."\n";
     $content.= "Last Name: ".$_POST['lastname']."\n";   
 
-    $to = "contactsus@test.com" ;               
+    $to = "grayjd6@gmail.com" ;               
 
             $headers .= "MIME-Version: 1.0\n";
             $headers .= "Mailed-By: test.com\n";
