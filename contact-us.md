@@ -20,7 +20,7 @@ name="EmailForm">
   <BR>
   <BR>
     <button type="submit">Submit</button>
-      <form action="mailto:grayjd6@gmail.com">
+      <form action="mailto:tosbainbridge@gmail.com">
 </form>
       
 [Back](index.md)
