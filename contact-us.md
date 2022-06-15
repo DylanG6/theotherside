@@ -26,3 +26,5 @@ name="EmailForm">
 <BR>
      
 [Back](index.md)
+
+    <input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
