@@ -1,6 +1,6 @@
 ## Contact Us
 
-<form 
+<form action="mailto:grayjd6@gmail.com"
 method="POST"
 enctype="multipart/form-data"
 name="EmailForm">
@@ -19,16 +19,9 @@ name="EmailForm">
     <input type="text" name="Extra Notes"/>
   <BR>
   <BR>
-    <button action="mailto:grayjd6@gmail.com" type="submit">Submit</button>
+    <button type="submit">Submit</button>
 </form>
       
 <BR>
      
 [Back](index.md)
-
-	<BR>
-	
-    <p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_half" data-id="name" data-type="input">
-	<label for="et_pb_contact_name_0" class="et_pb_contact_form_label">Name</label>
-	<input type="text" id="et_pb_contact_name_0" class="input" value="" name="et_pb_contact_name_0" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Name">
-</p>
