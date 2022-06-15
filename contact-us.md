@@ -1,6 +1,6 @@
 ## Contact Us
 
-<form action="mailto:grayjd6@gmail.com"
+<form action="mailto:grayjd6@gmail.com subject:quote body=Name,Phone Number,Email,Home Address,Any Extra Notes"
 method="POST"
 enctype="multipart/form-data"
 name="EmailForm">
