@@ -1,6 +1,9 @@
 ## Contact Us
 
-<form>
+<form action="mailto:grayjd6@gmail.com"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
     <p> Your Name </p>
     <input type="text" name="name" id="name" required/>
     <p> Your Email </p>
