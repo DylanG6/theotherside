@@ -25,4 +25,4 @@ We hope to see you sometime soon.  Feel free to call or email at us anytime.  We
 
 #### Phone: (360) 541-0914
 #### Secondary Phone: (360) 710-4499
-#### Email: [tosbainbridge@gmail.com](mailto:grayjd6@gmail.com?subject:quote&body=Name, Phone Number, Email, Home Address, Any Extra Notes)
+#### Email: [tosbainbridge@gmail.com](mailto:grayjd6@gmail.com?subject:quote&body=Name,PhoneNumber,Email,HomeAddress,AnyExtraNotes)
