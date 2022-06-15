@@ -59,43 +59,34 @@
   <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
 </div>
 
-<?php
-      if(null!==($_POST["name"])) {
-          $name = $_POST["name"];
-         /* echo "Please enter 'Name'<br />"; */
-      } else {
-          $name = "";
-      }
-      if(null!==($_POST["email"])) {
-          $email = $_POST["email"];
-          /* echo "Please enter 'E_Mail'<br />"; */
-      } else {
-          $email = "";
-      }
-      if(null!==($_POST["subject"])) {
-          $form_email = $_POST["subject"];
-          /* echo "Please enter 'Subject'<br />"; */
-      } else {
-          $subject = "";
-      }
-    if(null!==($_POST["message"])) {
-        $message = $_POST["message"];
-        /* echo "Please enter your message<br />"; */
-    }   else {
-        $message = "";
-    }
-    /*echo "{$name}, {$email}, {$message}";*/
+    <?php
+    $content= "First Name: ".$_POST['firstname']."\n";
+    $content.= "Last Name: ".$_POST['lastname']."\n";   
 
-  $email_subject = "New Form submission";
+    $to = "contactsus@test.com" ;               
 
-  $email_body = "You have received a new message from the user $name.\n".
-                "Here is the message:\n $message";
+            $headers .= "MIME-Version: 1.0\n";
+            $headers .= "Mailed-By: test.com\n";
+            $headers .= "Content-Type: text/HTML; charset=ISO-8859-1\n";            
 
-  $to = "grayjd6@gmail.com";
-    $headers = "From: $email \r\n";
-    $headers .= "Reply-To: $email \r\n";
-    mail($to,$email_subject,$email_body,$headers);
-    header("Location: thank-you.html");
-   ?>
+            $headers = 'From:'.$_POST['email']  . "\r\n" .'Reply-To:'.$_POST['email'] . "\r\n" .'X-Mailer: PHP/' . phpversion(); 
+
+            if(mail($to,'testsubject',$content,$headers)){
+            ?>
+            <script type="text/javascript">
+                    alert("Thank you for contacting us.We will get back to you soon.");
+                    window.location.href="index.php";
+            </script>
+            <?php
+            }else{
+            ?>
+            <script type="text/javascript">
+                    alert("mail not sent! Please try after some time!");
+                    window.location.href="index.php";
+            </script>
+            <?php
+
+            }
+    ?>
       
 [Back](index.md)
