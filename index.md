@@ -15,7 +15,7 @@ We have very flexible pricing that averages around $8 per 1,000 square feet
 |Level Lawn|$5 : 1k|$7 : 1k|$9 : 1k|
 |Oddly Shaped|$7 : 1k|$9 : 1k|$11 : 1k|
 
-[Specific Quote]([contact-us.md](https://docs.google.com/forms/d/e/1FAIpQLSfbj3lIuZSmaXUfj-23Bhzkw0JiScHMKB6bPWfGkyjaLO9-7w/viewform?vc=0&c=0&w=1&flr=0))
+[Specific Quote]([contact-us.md])
 
 ### We Hope To See You
 
