@@ -1,7 +1,6 @@
 ## Welcome to The Other Side
 
-My friend Ben and I started this business in order to save money for college.  We love to work outside and help others.
-
+The Other Side is a lawn mowing service focussed on bringing you high quality work for a reasonable and negotiable price.  My friend Ben and I started this business as a way to help the community while saving for college.  We love what we do, and we would love to help YOU make your lawn look how you want it.  After all, the grass is always greener on The Other Side.
 We will provide lawn mowers and gas for a higher price if you wish.
 
 ### Pricing
